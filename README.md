@@ -4,6 +4,12 @@
 
 此处主要是撰写一些图像处理领域的论文阅读和算法总结，以形成自己从事图像算法以来的Rodemap。
 
+
+
+## Noise Profile
+
+
+
 ## Noise Reduction
 
 
@@ -24,13 +30,85 @@
 
 
 
-![aaa](https://github.com/ishuangfang/picdata/blob/main/AI%E8%8A%AF%E7%89%87%E7%AE%97%E5%8A%9B.png)
+## Fusion
 
 
 
-a
+## Alignment
 
-aaaaaaaa
+
+
+## Mesh
+
+
+
+## Calibration
+
+
+
+
+
+## Deblur
+
+
+
+## Decomposition
+
+
+
+## Dehaze
+
+## Segmentation
+
+
+
+## DMS
+
+
+
+## Stich
+
+## Structure Light
+
+## Texture
+
+
+
+## Editing
+
+
+
+## Frame Interpolation
+
+
+
+## Frequency and Wavelet
+
+
+
+## HDR
+
+
+
+## Image Similarity
+
+
+
+## Image System
+
+
+
+## Match
+
+
+
+## Machine Learning Basis
+
+## Deep Learning Basis
+
+## Neural Network Compression
+
+
 
 
 
